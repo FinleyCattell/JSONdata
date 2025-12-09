@@ -1,5 +1,197 @@
 [
     {
-        "test":"Test"
+        "id": "1",
+        "name": "Dog Food",
+        "features": [
+            "Complete and balanced nutrition",
+            "Supports strong muscles and healthy digestion",
+            "Contains essential vitamins and minerals",
+            "Suitable for all dog breeds and sizes"
+        ],
+        "shortDescription": "A nutritious and balanced dog food suitable for daily feeding. Formulated to support overall health and energy levels.",
+        "fullDescription": "This high-quality dog food provides a complete and balanced diet for dogs of all breeds and sizes. Made with a blend of essential proteins, vitamins, and minerals, it supports strong muscles, healthy digestion, and a shiny coat. Ideal for everyday nutrition, it is designed to keep your dog happy, healthy, and full of vitality.",
+        "image": ""
+    },
+    {
+        "id": "2",
+        "name": "Cat Food",
+        "features": [
+            "High-quality proteins for muscle development",
+            "Supports healthy digestion and shiny coat",
+            "Balanced vitamins and minerals",
+            "Suitable for cats of all ages"
+        ],
+        "shortDescription": "A complete and balanced cat food designed to support healthy growth, digestion, and overall wellbeing.",
+        "fullDescription": "This premium cat food provides all the essential nutrients your cat needs for a healthy and active life. Formulated with high-quality proteins, vitamins, and minerals, it supports lean muscle development, a glossy coat, and optimal digestion. Suitable for cats of all ages, it offers a tasty and nutritious meal your feline will enjoy every day.",
+        "image": ""
+    },
+    {
+        "id": "3",
+        "name": "Rabbit Food",
+        "features": [
+            "Balanced diet with fiber and vitamins",
+            "Includes high-quality hay and fortified pellets",
+            "Supports healthy digestion and strong teeth",
+            "Suitable for rabbits of all ages"
+        ],
+        "shortDescription": "A nutritious blend of pellets and hay to support a rabbit's digestive health and overall wellbeing.",
+        "fullDescription": "This carefully formulated rabbit food provides a balanced diet with essential fibers, vitamins, and minerals. It includes high-quality hay, leafy greens, and fortified pellets to promote healthy digestion, strong teeth, and a shiny coat. Suitable for rabbits of all ages, it ensures your pet stays happy, active, and healthy.",
+        "image": ""
+    },
+    {
+        "id": "4",
+        "name": "Dog Bed",
+        "features": [
+            "Soft, supportive cushioning",
+            "Relieves pressure on joints",
+            "Durable and easy to clean",
+            "Suitable for indoor and covered outdoor use"
+        ],
+        "shortDescription": "A comfortable and durable dog bed designed to give your pet a cozy place to rest.",
+        "fullDescription": "This dog bed features soft, supportive cushioning that helps relieve pressure on joints and provides a restful sleeping area for dogs of all sizes. Made with durable, easy-to-clean materials, it is suitable for both indoor and covered outdoor use. Its stylish design complements any home while ensuring your dog enjoys maximum comfort.",
+        "image": ""
+    },
+    {
+        "id": "5",
+        "name": "Cat Tree",
+        "features": [
+            "Multiple platforms and hideaways",
+            "Sisal-covered scratching posts",
+            "Encourages exercise and play",
+            "Sturdy and suitable for cats of all ages"
+        ],
+        "shortDescription": "A multi-level cat tree that provides climbing, scratching, and lounging opportunities for your cat.",
+        "fullDescription": "This sturdy cat tree is designed to keep cats active and entertained. It features multiple platforms, cozy hideaways, and scratching posts to satisfy natural instincts. Perfect for cats of all ages, it encourages exercise, reduces furniture scratching, and provides a safe space for rest and play. Its stylish design fits well in any home environment.",
+        "image": ""
+    },
+    {
+        "id": "6",
+        "name": "Dog Coat",
+        "features": [
+            "Waterproof and windproof",
+            "Soft lining for warmth",
+            "Adjustable straps for secure fit",
+            "Suitable for outdoor walks in all weather"
+        ],
+        "shortDescription": "A warm and waterproof dog coat to keep your pet comfortable during cold and wet weather.",
+        "fullDescription": "This dog coat is designed to protect your dog from rain, wind, and cold temperatures. Made from durable, waterproof materials with a soft lining, it ensures your pet stays dry and cozy on walks. Adjustable straps provide a secure fit for dogs of various sizes, making it ideal for outdoor activities in all seasons.",
+        "image": ""
+    },
+    {
+        "id": "7",
+        "name": "Rabbit Hutch",
+        "features": [
+            "Durable, pet-safe materials",
+            "Proper ventilation",
+            "Easy access for cleaning",
+            "Suitable for indoor and outdoor use"
+        ],
+        "shortDescription": "A safe and comfortable hutch for your rabbit, suitable for indoor or outdoor use.",
+        "fullDescription": "This rabbit hutch provides a secure and cozy space for your pet to live and rest. Made from durable, pet-safe materials, it includes proper ventilation and easy access for cleaning. Ideal for both indoor and outdoor use, it ensures your rabbit stays comfortable, protected, and happy.",
+        "image": ""
+    },
+    {
+        "id": "8",
+        "name": "Litter Tray",
+        "features": [
+            "Durable, easy-to-clean material",
+            "Reduces odors",
+            "Provides accessible space for cats",
+            "Simple and practical design"
+        ],
+        "shortDescription": "A practical litter tray designed to make cat hygiene easy and convenient.",
+        "fullDescription": "This litter tray provides a clean and accessible space for your cat to use. Made from durable, easy-to-clean materials, it helps maintain hygiene and reduces odors. Its simple design fits well in any home environment, making it a reliable choice for cat owners.",
+        "image": ""
+    },
+    {
+        "id": "9",
+        "name": "Rope Tug Toy",
+        "features": [
+            "Strong, non-toxic fibers",
+            "Encourages tug-of-war and fetch",
+            "Strengthens teeth and gums",
+            "Suitable for dogs of all sizes"
+        ],
+        "shortDescription": "A durable rope toy designed for interactive tugging and chewing fun.",
+        "fullDescription": "This rope tug toy is perfect for dogs that love to play and chew. Made from strong, non-toxic fibers, it provides a safe way for your pet to engage in tug-of-war, fetch, and solo chewing sessions. Ideal for strengthening teeth and gums while keeping your dog active and entertained.",
+        "image": ""
+    },
+    {
+        "id": "10",
+        "name": "Feather Chase Cat Toy",
+        "features": [
+            "Lightweight wand with dangling feathers",
+            "Stimulates hunting instincts",
+            "Encourages exercise and mental stimulation",
+            "Perfect for interactive play"
+        ],
+        "shortDescription": "An engaging feather toy to stimulate your cat's hunting instincts and playfulness.",
+        "fullDescription": "The Feather Chase Cat Toy is designed to encourage natural hunting behavior in cats. With a lightweight wand and dangling feathers, it keeps your feline active and mentally stimulated. Perfect for interactive play sessions, it helps prevent boredom and promotes exercise, keeping your cat healthy and happy.",
+        "image": ""
+    },
+    {
+        "id": "11",
+        "name": "Interactive Laser Cat Toy",
+        "features": [
+            "Stimulates natural hunting behavior",
+            "Compact and easy to use",
+            "Encourages active play and exercise",
+            "Suitable for solo or supervised play"
+        ],
+        "shortDescription": "A fun laser toy that keeps cats entertained while encouraging exercise and play.",
+        "fullDescription": "This Interactive Laser Cat Toy projects a moving light that stimulates your cat's natural hunting instincts. Compact and easy to use, it encourages active play and mental engagement, helping to prevent boredom and maintain a healthy weight. Ideal for solo play or supervised sessions with your cat.",
+        "image": ""
+    },
+    {
+        "id": "12",
+        "name": "Chew Bone Toy",
+        "features": [
+            "Durable, non-toxic materials",
+            "Supports healthy teeth and gums",
+            "Encourages independent play",
+            "Reduces boredom and destructive behavior"
+        ],
+        "shortDescription": "A durable chew bone designed to satisfy your dog's natural chewing instincts.",
+        "fullDescription": "The Chew Bone Toy is made from tough, non-toxic materials that withstand enthusiastic chewing. It helps maintain healthy teeth and gums while keeping your dog entertained. Suitable for dogs of all sizes, this toy encourages independent play and helps reduce boredom and destructive behavior.",
+        "image": ""
+    },
+    {
+        "id": "13",
+        "name": "Stegosaurus Plush Dog Toy",
+        "features": [
+            "Soft yet durable plush material",
+            "Light chewing and fetching toy",
+            "Whimsical dinosaur design",
+            "Reinforced stitching for longevity"
+        ],
+        "shortDescription": "A fun dinosaur-shaped plush toy that's perfect for cuddling and gentle play.",
+        "fullDescription": "This Stegosaurus Plush Dog Toy is soft yet durable, making it ideal for light chewing, fetching, and snuggling. Its whimsical dinosaur design adds a playful touch, while the reinforced stitching ensures it lasts through countless play sessions. Great for dogs who enjoy interactive or comfort toys.",
+        "image": ""
+    },
+    {
+        "id": "14",
+        "name": "Cozy Cat Sweater",
+        "features": [
+            "Lightweight, breathable fabric",
+            "Easy to put on and remove",
+            "Provides warmth without restricting movement",
+            "Stylish and comfortable for indoor or outdoor use"
+        ],
+        "shortDescription": "A soft and stylish sweater to keep your cat warm and adorable during colder months.",
+        "fullDescription": "The Cozy Cat Sweater is made from lightweight, breathable fabric that provides warmth without restricting movement. Designed to be easy to put on and take off, it keeps your cat comfortable while adding a cute, fashionable touch. Perfect for indoor wear or chilly outdoor adventures, this sweater combines style and comfort for your feline friend.",
+        "image": ""
+    },
+    {
+        "id": "15",
+        "name": "Multi-Level Cat Condo",
+        "features": [
+            "Multiple levels for climbing and lounging",
+            "Cozy hideaways for resting",
+            "Sisal-covered scratching posts",
+            "Encourages exercise and mental stimulation"
+        ],
+        "shortDescription": "A spacious cat condo with multiple levels for climbing, scratching, and lounging.",
+        "fullDescription": "The Multi-Level Cat Condo provides cats with an engaging environment to climb, explore, and relax. It features sturdy platforms, cozy hideaways, and sisal-covered scratching posts to satisfy natural instincts. Ideal for indoor cats, it encourages exercise, mental stimulation, and restful sleep while keeping your feline entertained for hours.",
+        "image": ""
     }
 ]
