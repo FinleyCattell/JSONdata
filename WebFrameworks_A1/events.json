@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Scottish Wildlife Rehabilitation Talk",
+    "audience": "All ages",
+    "location": "Jacob British Wildlife Centre",
+    "shortDescription": "Learn about the rescue and rehabilitation of native Scottish wildlife.",
+    "longDescription": "Join us at Jacob British Wildlife Centre for an engaging talk about the rehabilitation process of Scotland's native animals. Discover how injured or orphaned wildlife is cared for, the challenges of returning animals to the wild, and how you can help through volunteering or donations.",
+    "animals": ["Red Fox", "Hedgehog", "Barn Owl"],
+    "image": ""
+  },
+  {
+    "id": 2,
+    "name": "Kids' Wildlife Workshop",
+    "audience": "Children only",
+    "location": "Jacob British Wildlife Centre",
+    "shortDescription": "Fun, hands-on activities introducing children to local wildlife.",
+    "longDescription": "This interactive workshop is designed for children to explore the world of Scottish wildlife through crafts, storytelling, and safe animal encounters. Children will learn about animal habitats, conservation, and the importance of protecting native species in a fun and educational environment.",
+    "animals": ["Squirrel", "Rabbit", "Hedgehog"],
+    "image": ""
+  },
+  {
+    "id": 3,
+    "name": "Pet Adoption Day",
+    "audience": "All ages",
+    "location": "Bru Pet Supplies shop",
+    "shortDescription": "Meet adoptable pets looking for their forever homes.",
+    "longDescription": "Come along to Bru Pet Supplies shop and meet a variety of pets available for adoption. Our team will provide guidance on responsible pet ownership, and a portion of the day's sales will go towards supporting Jacob British Wildlife Centre. Families are welcome to explore the shop and learn about products that benefit rescued animals.",
+    "animals": ["Dogs", "Cats", "Rabbits"],
+    "image": ""
+  },
+  {
+    "id": 4,
+    "name": "Adults' Volunteer Day",
+    "audience": "Adults only",
+    "location": "Jacob British Wildlife Centre",
+    "shortDescription": "Help care for rescued wildlife while learning about conservation.",
+    "longDescription": "Join fellow adults for a hands-on volunteer day at Jacob British Wildlife Centre. Assist with feeding, habitat preparation, and animal care under the supervision of experienced staff. Gain insight into wildlife rehabilitation techniques and make a tangible difference in the lives of rescued animals.",
+    "animals": ["Red Fox", "Owl", "Badger"],
+    "image": ""
+  },
+  {
+    "id": 5,
+    "name": "Wildlife Photography Workshop",
+    "audience": "All ages",
+    "location": "Jacob British Wildlife Centre",
+    "shortDescription": "Learn tips for photographing rescued animals and their habitats.",
+    "longDescription": "This workshop is perfect for budding photographers of all ages. Learn how to capture wildlife in a safe and respectful way, explore composition and lighting, and gain insight into the behaviors of different species. Attendees will also learn how photography can support conservation efforts by raising awareness.",
+    "animals": ["Hedgehog", "Barn Owl", "Squirrel"],
+    "image": ""
+  },
+  {
+    "id": 6,
+    "name": "Fundraiser Bake Sale",
+    "audience": "All ages",
+    "location": "Bru Pet Supplies shop",
+    "shortDescription": "Enjoy baked treats while supporting wildlife conservation.",
+    "longDescription": "Join us for a charity bake sale at Bru Pet Supplies shop, where all proceeds will go towards supporting Jacob British Wildlife Centre. Bring the whole family and enjoy homemade treats, learn more about the centre's work, and contribute to the protection and rehabilitation of Scotland's native wildlife.",
+    "animals": null,
+    "image": ""
+  },
+  {
+    "id": 7,
+    "name": "Children's Nature Storytime",
+    "audience": "Children only",
+    "location": "Bru Pet Supplies shop",
+    "shortDescription": "Storytelling session focused on animals and nature.",
+    "longDescription": "A fun and educational storytime for children, featuring tales about Scottish wildlife and the adventures of rescued animals. This session encourages imagination and teaches young ones about the importance of caring for animals and their habitats in a friendly and engaging setting.",
+    "animals": ["Hedgehog", "Rabbit"],
+    "image": ""
+  },
+  {
+    "id": 8,
+    "name": "Animal Enrichment Demonstration",
+    "audience": "All ages",
+    "location": "Jacob British Wildlife Centre",
+    "shortDescription": "See how enrichment keeps rescued animals happy and healthy.",
+    "longDescription": "Witness first-hand how enrichment activities are used to stimulate rescued animals' minds and bodies. This demonstration shows practical examples of toys, puzzles, and habitat enhancements used in rehabilitation. Perfect for anyone interested in animal behavior and welfare.",
+    "animals": ["Red Fox", "Owl", "Squirrel"],
+    "image": ""
+  }
+]

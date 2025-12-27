@@ -1,0 +1,55 @@
+[
+        // {
+    //     "id": 2,
+    //     "name": "Cat Food",
+    //     "features": [
+    //         "High-quality proteins for muscle development",
+    //         "Supports healthy digestion and shiny coat",
+    //         "Balanced vitamins and minerals",
+    //         "Suitable for cats of all ages"
+    //     ],
+    //     "shortDescription": "A complete and balanced cat food designed to support healthy growth, digestion, and overall wellbeing.",
+    //     "fullDescription": "This premium cat food provides all the essential nutrients your cat needs for a healthy and active life. Formulated with high-quality proteins, vitamins, and minerals, it supports lean muscle development, a glossy coat, and optimal digestion. Suitable for cats of all ages, it offers a tasty and nutritious meal your feline will enjoy every day.",
+    //     "image": ""
+    // },
+    // {
+    //     "id": 3,
+    //     "name": "Rabbit Food",
+    //     "features": [
+    //         "Balanced diet with fiber and vitamins",
+    //         "Includes high-quality hay and fortified pellets",
+    //         "Supports healthy digestion and strong teeth",
+    //         "Suitable for rabbits of all ages"
+    //     ],
+    //     "shortDescription": "A nutritious blend of pellets and hay to support a rabbit's digestive health and overall wellbeing.",
+    //     "fullDescription": "This carefully formulated rabbit food provides a balanced diet with essential fibers, vitamins, and minerals. It includes high-quality hay, leafy greens, and fortified pellets to promote healthy digestion, strong teeth, and a shiny coat. Suitable for rabbits of all ages, it ensures your pet stays happy, active, and healthy.",
+    //     "image": ""
+    // },
+    // {
+    //     "id": 7,
+    //     "name": "Rabbit Hutch",
+    //     "features": [
+    //         "Durable, pet-safe materials",
+    //         "Proper ventilation",
+    //         "Easy access for cleaning",
+    //         "Suitable for indoor and outdoor use"
+    //     ],
+    //     "shortDescription": "A safe and comfortable hutch for your rabbit, suitable for indoor or outdoor use.",
+    //     "fullDescription": "This rabbit hutch provides a secure and cozy space for your pet to live and rest. Made from durable, pet-safe materials, it includes proper ventilation and easy access for cleaning. Ideal for both indoor and outdoor use, it ensures your rabbit stays comfortable, protected, and happy.",
+    //     "image": ""
+    // },
+    // {
+    //     "id": 11,
+    //     "name": "Interactive Laser Cat Toy",
+    //     "features": [
+    //         "Stimulates natural hunting behavior",
+    //         "Compact and easy to use",
+    //         "Encourages active play and exercise",
+    //         "Suitable for solo or supervised play"
+    //     ],
+    //     "shortDescription": "A fun laser toy that keeps cats entertained while encouraging exercise and play.",
+    //     "fullDescription": "This Interactive Laser Cat Toy projects a moving light that stimulates your cat's natural hunting instincts. Compact and easy to use, it encourages active play and mental engagement, helping to prevent boredom and maintain a healthy weight. Ideal for solo play or supervised sessions with your cat.",
+    //     "image": ""
+    // },
+
+]
