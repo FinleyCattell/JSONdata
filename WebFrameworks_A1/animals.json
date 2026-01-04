@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Angus",
+    "species": "Red Deer",
+    "shortDescription": "The largest land mammal in the UK, often seen in the Scottish Highlands.",
+    "fullDescription": "Red deer are iconic to Scotland, inhabiting woodlands and open moorlands. They are herbivores, feeding on grasses, heather, and shoots. Males, called stags, grow impressive antlers each year, which they shed after the rutting season. Red deer are key to maintaining the balance of Highland ecosystems.",
+    "image": "angus.webp"
+  },
+  {
+    "id": 2,
+    "name": "Logan",
+    "species": "European Otter",
+    "shortDescription": "A shy and elusive semi-aquatic mammal found in rivers and lochs.",
+    "fullDescription": "European otters are widespread across Scotland, living along clean rivers, lochs, and coastal waters. They feed mainly on fish and amphibians. These playful creatures are indicators of healthy waterways, as they require unpolluted habitats to thrive.",
+    "image": "logan.webp"
+  },
+  {
+    "id": 3,
+    "name": "Hamish",
+    "species": "Peregrine Falcon",
+    "shortDescription": "A striking bird of prey known for incredible diving speed.",
+    "fullDescription": "Peregrine falcons are found throughout Scotland, nesting on cliffs and urban buildings. They primarily hunt birds in flight, reaching speeds over 200 mph in their stoop. These falcons are a conservation success story, having recovered from the brink of decline caused by pesticides in the 20th century.",
+    "image": "hamish.webp"
+  },
+  {
+    "id": 4,
+    "name": "Isla",
+    "species": "Red Squirrel",
+    "shortDescription": "A native squirrel species with reddish fur, mostly found in Scottish forests.",
+    "fullDescription": "Red squirrels are native to Scotland and prefer coniferous woodlands. They are smaller than the non-native grey squirrels and rely on seeds, nuts, and berries. Conservation efforts focus on habitat protection and controlling grey squirrel populations to prevent displacement.",
+    "image": "isla.webp"
+  },
+  {
+    "id": 5,
+    "name": "Ewan",
+    "species": "Scottish Wildcat",
+    "shortDescription": "The elusive wildcat, one of the UK's rarest mammals.",
+    "fullDescription": "Scottish wildcats are critically endangered and mostly found in the Highlands. Resembling domestic tabby cats but larger and more robust, they are solitary hunters feeding on rabbits, rodents, and birds. Conservation projects aim to prevent hybridization with domestic cats and preserve their wild habitats.",
+    "image": "ewan.webp"
+  },
+  {
+    "id": 6,
+    "name": "Maisie",
+    "species": "Atlantic Puffin",
+    "shortDescription": "A charming seabird with a colourful beak, known for nesting on cliffs.",
+    "fullDescription": "Puffins breed along Scotland's coasts, particularly on islands like the Shetlands and Orkneys. They feed on small fish, diving underwater to catch their prey. These birds are a symbol of Scotland's seabird biodiversity and attract wildlife enthusiasts each summer.",
+    "image": "maisie.webp"
+  },
+  {
+    "id": 7,
+    "name": "Callum",
+    "species": "European Hedgehog",
+    "shortDescription": "A small, nocturnal mammal with spiny protection against predators.",
+    "fullDescription": "Hedgehogs are found in gardens, parks, and woodland edges across Scotland. They are omnivores, eating insects, worms, and fruits. Hedgehog populations face threats from habitat loss and road mortality, making conservation efforts and garden-friendly practices important.",
+    "image": "callum.webp"
+  },
+  {
+    "id": 9,
+    "name": "Maggie",
+    "species": "European Robin",
+    "shortDescription": "A small, friendly songbird with a bright red breast.",
+    "fullDescription": "Robins are a common sight across Scotland, often seen in gardens and woodlands. They feed on insects, worms, and berries and are known for their melodious song, which can be heard year-round. They are highly territorial and a favorite of birdwatchers.",
+    "image": "maggie.webp"
+  },
+  {
+    "id": 10,
+    "name": "Lachlan",
+    "species": "Blue Tit",
+    "shortDescription": "A tiny, colorful bird often visiting garden feeders.",
+    "fullDescription": "Blue tits are abundant in Scottish gardens, parks, and woodlands. They are easily recognized by their bright blue and yellow plumage and acrobatic feeding habits. They mainly eat insects in summer and seeds or nuts in winter, helping to control pests naturally.",
+    "image": "lachlan.webp"
+  },
+  {
+    "id": 11,
+    "name": "Fergus",
+    "species": "European Goldfinch",
+    "shortDescription": "A small, striking bird with red face and golden wing patches.",
+    "fullDescription": "Goldfinches are common across Scotland, frequenting gardens, farmland, and hedgerows. They feed on seeds, especially from thistles and teasels. Their cheerful song and bright plumage make them popular among nature lovers and photographers.",
+    "image": "fergus.webp"
+  },
+  {
+    "id": 12,
+    "name": "Vincent",
+    "species": "Grey Heron",
+    "shortDescription": "A large wading bird often seen near rivers and lochs.",
+    "fullDescription": "Grey herons are a familiar sight across Scotland's freshwater habitats. They feed mainly on fish, occasionally taking amphibians and small mammals. Standing still for long periods, they are patient hunters, contributing to the health of aquatic ecosystems.",
+    "image": "vincent.webp"
+  },
+  {
+    "id": 13,
+    "name": "Jules",
+    "species": "Common Blackbird",
+    "shortDescription": "A familiar bird with glossy black feathers and yellow beak.",
+    "fullDescription": "Blackbirds are widespread across Scottish gardens, parks, and woodlands. They are omnivorous, feeding on insects, berries, and fruits. Males are particularly noticeable with their black plumage, while females are brown. Their melodic song is a sign of early morning life in Scotland.",
+    "image": "jules.webp"
+  },
+  {
+    "id": 14,
+    "name": "Mia",
+    "species": "House Sparrow",
+    "shortDescription": "A small, social bird often found around homes and towns.",
+    "fullDescription": "House sparrows are very common across Scotland, thriving in human settlements. They feed on seeds, scraps, and insects. While their numbers have declined in recent decades, they remain a familiar and beloved presence in urban and rural areas alike.",
+    "image": "mia.webp"
+  },
+  {
+    "id": 16,
+    "name": "Winston",
+    "species": "European Hedgehog",
+    "shortDescription": "A spiny, nocturnal mammal commonly found in gardens.",
+    "fullDescription": "Hedgehogs are common across Scotland, favoring gardens, parks, and woodland edges. They are omnivorous, eating insects, worms, and fruits. Populations have declined due to habitat loss, making it important to create hedgehog-friendly spaces.",
+    "image": "winston.webp"
+  },
+  {
+    "id": 17,
+    "name": "Marsellus",
+    "species": "Mallard Duck",
+    "shortDescription": "A familiar duck species found on ponds and rivers.",
+    "fullDescription": "Mallards are abundant across Scottish wetlands, parks, and lochs. Males are easily recognized by their glossy green heads, while females are mottled brown. They feed on aquatic plants, insects, and small fish. Mallards are often seen alongside people in urban parks, making them one of the most visible birds in Scotland.",
+    "image": "marsellus.webp"
+  }
+]
