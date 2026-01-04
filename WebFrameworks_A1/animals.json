@@ -16,14 +16,6 @@
     "image": "logan.webp"
   },
   {
-    "id": 3,
-    "name": "Hamish",
-    "species": "Peregrine Falcon",
-    "shortDescription": "A striking bird of prey known for incredible diving speed.",
-    "fullDescription": "Peregrine falcons are found throughout Scotland, nesting on cliffs and urban buildings. They primarily hunt birds in flight, reaching speeds over 200 mph in their stoop. These falcons are a conservation success story, having recovered from the brink of decline caused by pesticides in the 20th century.",
-    "image": "hamish.webp"
-  },
-  {
     "id": 4,
     "name": "Isla",
     "species": "Red Squirrel",
