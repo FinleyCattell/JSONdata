@@ -2,6 +2,7 @@
     {
         "id": 1,
         "name": "Dog Food",
+        "price": 18.50,
         "features": [
             "Complete and balanced nutrition",
             "Supports strong muscles and healthy digestion",
@@ -15,6 +16,7 @@
     {
         "id": 4,
         "name": "Dog Bed",
+        "price": 35.00,
         "features": [
             "Soft, supportive cushioning",
             "Relieves pressure on joints",
@@ -28,6 +30,7 @@
     {
         "id": 5,
         "name": "Cat Tree",
+        "price": 60.00,
         "features": [
             "Multiple platforms and hideaways",
             "Sisal-covered scratching posts",
@@ -41,6 +44,7 @@
     {
         "id": 6,
         "name": "Dog Coat",
+        "price": 22.00,
         "features": [
             "Waterproof and windproof",
             "Soft lining for warmth",
@@ -54,6 +58,7 @@
     {
         "id": 8,
         "name": "Litter Tray",
+        "price": 12.50,
         "features": [
             "Durable, easy-to-clean material",
             "Reduces odors",
@@ -67,6 +72,7 @@
     {
         "id": 9,
         "name": "Rope Tug Toy",
+        "price": 7.00,
         "features": [
             "Strong, non-toxic fibers",
             "Encourages tug-of-war and fetch",
@@ -80,6 +86,7 @@
     {
         "id": 10,
         "name": "Feather Chase Cat Toy",
+        "price": 6.50,
         "features": [
             "Lightweight wand with dangling feathers",
             "Stimulates hunting instincts",
@@ -93,6 +100,7 @@
     {
         "id": 12,
         "name": "Chew Bone Toy",
+        "price": 8.00,
         "features": [
             "Durable, non-toxic materials",
             "Supports healthy teeth and gums",
@@ -106,6 +114,7 @@
     {
         "id": 13,
         "name": "Stegosaurus Plush Dog Toy",
+        "price": 5.50,
         "features": [
             "Soft yet durable plush material",
             "Light chewing and fetching toy",
@@ -119,6 +128,7 @@
     {
         "id": 14,
         "name": "Cozy Cat Sweater",
+        "price": 14.00,
         "features": [
             "Lightweight, breathable fabric",
             "Easy to put on and remove",
@@ -132,6 +142,7 @@
     {
         "id": 15,
         "name": "Multi-Level Cat Condo",
+        "price": 65.00,
         "features": [
             "Multiple levels for climbing and lounging",
             "Cozy hideaways for resting",
