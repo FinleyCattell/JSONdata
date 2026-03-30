@@ -43,8 +43,8 @@
       "requiresMembership": true
     },
     {
-      "id": "code_cafe_meetup",
-      "name": "Code Café Meetup",
+      "id": "code_cafe",
+      "name": "code cafe",
       "synonyms": [
         "coding meetup",
         "programming meetup",
