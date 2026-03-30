@@ -1,0 +1,56 @@
+{
+  "societies": [
+    {
+      "id": "robotics_society",
+      "name": "Robotics Society",
+      "synonyms": [
+        "robotics club",
+        "robot club",
+        "robotics team"
+      ],
+      "description": "A society for students interested in robotics, automation, and AI projects.",
+      "meetingLocation": "Engineering Lab 2",
+      "meetingDay": "Wednesday",
+      "requiresRegistration": false
+    },
+    {
+      "id": "gaming_society",
+      "name": "Gaming Society",
+      "synonyms": [
+        "game club",
+        "video game society",
+        "gaming club"
+      ],
+      "description": "A relaxed environment for students to enjoy multiplayer and competitive gaming sessions.",
+      "meetingLocation": "Student Union Lounge",
+      "meetingDay": "Friday",
+      "requiresRegistration": false
+    },
+    {
+      "id": "drama_society",
+      "name": "Drama Society",
+      "synonyms": [
+        "theatre club",
+        "acting society",
+        "stage society"
+      ],
+      "description": "Practice acting, stage performance, and production for university theatre events.",
+      "meetingLocation": "Performing Arts Studio",
+      "meetingDay": "Monday",
+      "requiresRegistration": false
+    },
+    {
+      "id": "coding_society",
+      "name": "Code Café",
+      "synonyms": [
+        "coding cafe",
+        "programming club",
+        "code club"
+      ],
+      "description": "Weekly collaborative coding sessions open to programmers of all skill levels.",
+      "meetingLocation": "Computer Lab 5",
+      "meetingDay": "Thursday",
+      "requiresRegistration": false
+    }
+  ]
+}

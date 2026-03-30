@@ -1,0 +1,61 @@
+{
+  "events": [
+    {
+      "id": "robotics_workshop",
+      "name": "Robotics Workshop",
+      "synonyms": [
+        "robotics session",
+        "robot workshop"
+      ],
+      "societyId": "robotics_society",
+      "date": "2026-04-15",
+      "time": "18:00",
+      "location": "Engineering Lab 2",
+      "description": "Hands-on workshop building and programming beginner robots.",
+      "requiresMembership": true
+    },
+    {
+      "id": "gaming_tournament",
+      "name": "Gaming Tournament",
+      "synonyms": [
+        "game tournament",
+        "esports night"
+      ],
+      "societyId": "gaming_society",
+      "date": "2026-04-20",
+      "time": "19:00",
+      "location": "Student Union Lounge",
+      "description": "Competitive multiplayer gaming tournament with prizes.",
+      "requiresMembership": false
+    },
+    {
+      "id": "drama_rehearsal",
+      "name": "Drama Rehearsal Night",
+      "synonyms": [
+        "theatre rehearsal",
+        "acting rehearsal"
+      ],
+      "societyId": "drama_society",
+      "date": "2026-04-10",
+      "time": "17:00",
+      "location": "Performing Arts Studio",
+      "description": "Practice session for upcoming theatre production.",
+      "requiresMembership": true
+    },
+    {
+      "id": "code_cafe_meetup",
+      "name": "Code Café Meetup",
+      "synonyms": [
+        "coding meetup",
+        "programming meetup",
+        "code cafe session"
+      ],
+      "societyId": "coding_society",
+      "date": "2026-04-12",
+      "time": "16:00",
+      "location": "Computer Lab 5",
+      "description": "Casual collaborative programming meetup.",
+      "requiresMembership": false
+    }
+  ]
+}
