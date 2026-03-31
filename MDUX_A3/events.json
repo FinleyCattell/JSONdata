@@ -7,8 +7,8 @@
         "robotics session",
         "robot workshop"
       ],
-      "societyId": "robotics_society",
-      "date": "2026-04-15",
+      "societyName": "Robotics Society",
+      "date": "2026-03-31",
       "time": "18:00",
       "location": "Engineering Lab 2",
       "description": "Hands-on workshop building and programming beginner robots.",
@@ -21,7 +21,7 @@
         "game tournament",
         "esports night"
       ],
-      "societyId": "gaming_society",
+      "societyName": "Gaming Society",
       "date": "2026-04-20",
       "time": "19:00",
       "location": "Student Union Lounge",
@@ -35,7 +35,7 @@
         "theatre rehearsal",
         "acting rehearsal"
       ],
-      "societyId": "drama_society",
+      "societyName": "Drama Society",
       "date": "2026-04-10",
       "time": "17:00",
       "location": "Performing Arts Studio",
@@ -44,13 +44,13 @@
     },
     {
       "id": "code_cafe",
-      "name": "code cafe",
+      "name": "Code Cafe",
       "synonyms": [
         "coding meetup",
         "programming meetup",
         "code cafe session"
       ],
-      "societyId": "coding_society",
+      "societyName": "Computing Society",
       "date": "2026-04-12",
       "time": "16:00",
       "location": "Computer Lab 5",

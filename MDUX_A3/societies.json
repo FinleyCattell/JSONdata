@@ -38,19 +38,6 @@
       "meetingLocation": "Performing Arts Studio",
       "meetingDay": "Monday",
       "requiresRegistration": false
-    },
-    {
-      "id": "coding_society",
-      "name": "Code Café",
-      "synonyms": [
-        "coding cafe",
-        "programming club",
-        "code club"
-      ],
-      "description": "Weekly collaborative coding sessions open to programmers of all skill levels.",
-      "meetingLocation": "Computer Lab 5",
-      "meetingDay": "Thursday",
-      "requiresRegistration": false
     }
   ]
 }
